@@ -2,7 +2,7 @@
 
 💻 Computer engineering student
 
-### 📊statistics
+### 📊Statistics
 <p>
   <img 
     align="left" 
